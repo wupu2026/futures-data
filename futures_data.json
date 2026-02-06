@@ -45442,19 +45442,19 @@
       },
       {
         "date": "2026-02-04",
-        "nav": 1.0000001666666667,
-        "dailyReturn": 1.66666666689963e-07,
-        "annualReturn": 3.0416666670918246e-05,
-        "totalCapital": 6000001.0,
+        "nav": 1.0,
+        "dailyReturn": 0.0,
+        "annualReturn": 0.0,
+        "totalCapital": 6000000.0,
         "drawdown": 0.0,
         "maxDrawdown": 0.0,
-        "ytdReturn": 1.66666666689963e-07,
-        "ytdAnnualReturn": 3.0416666670918246e-05
+        "ytdReturn": 0.0,
+        "ytdAnnualReturn": 0.0
       },
       {
         "date": "2026-02-05",
         "nav": 1.0947791616666667,
-        "dailyReturn": 0.09477897920350344,
+        "dailyReturn": 0.09477916166666667,
         "annualReturn": 11.531464669444446,
         "totalCapital": 6568674.97,
         "drawdown": 0.0,
@@ -45468,7 +45468,7 @@
       "maxDrawdown": 0.0,
       "sharpeRatio": 9.13,
       "volatility": 65.15,
-      "winRate": 50.0,
+      "winRate": 25.0,
       "calmarRatio": 0,
       "startDate": "2026-02-02",
       "endDate": "2026-02-05",
@@ -45659,6 +45659,231 @@
       "startDate": "2025-12-19",
       "endDate": "2026-01-30",
       "latestNav": 1.2398
+    }
+  },
+  "德远（周度）": {
+    "name": "德远（周度）",
+    "data": [
+      {
+        "date": "2025-09-26",
+        "nav": 1.0754,
+        "dailyReturn": 0.0,
+        "annualReturn": null,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0,
+        "ytdReturn": 0.0,
+        "ytdAnnualReturn": null
+      },
+      {
+        "date": "2025-09-30",
+        "nav": 1.0707,
+        "dailyReturn": -0.00437046680304996,
+        "annualReturn": -0.3988050957783088,
+        "totalCapital": null,
+        "drawdown": -0.004370466803049977,
+        "maxDrawdown": 0.004370466803049977,
+        "ytdReturn": -0.00437046680304996,
+        "ytdAnnualReturn": -0.3988050957783088
+      },
+      {
+        "date": "2025-10-10",
+        "nav": 1.0785,
+        "dailyReturn": 0.0072849537685626495,
+        "annualReturn": 0.07515475969074879,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.004370466803049977,
+        "ytdReturn": 0.002882648316905433,
+        "ytdAnnualReturn": 0.07515475969074879
+      },
+      {
+        "date": "2025-10-17",
+        "nav": 1.0845,
+        "dailyReturn": 0.005563282336578586,
+        "annualReturn": 0.14707705659909667,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.004370466803049977,
+        "ytdReturn": 0.008461967639948028,
+        "ytdAnnualReturn": 0.14707705659909667
+      },
+      {
+        "date": "2025-10-24",
+        "nav": 1.0433,
+        "dailyReturn": -0.03798985707699412,
+        "annualReturn": -0.3891077074311222,
+        "totalCapital": null,
+        "drawdown": -0.037989857076994094,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": -0.02984935837827787,
+        "ytdAnnualReturn": -0.3891077074311222
+      },
+      {
+        "date": "2025-10-31",
+        "nav": 1.0668,
+        "dailyReturn": 0.022524681299722113,
+        "annualReturn": -0.08339753978585986,
+        "totalCapital": null,
+        "drawdown": -0.016320885200553303,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": -0.007997024363027657,
+        "ytdAnnualReturn": -0.08339753978585986
+      },
+      {
+        "date": "2025-11-07",
+        "nav": 1.1027,
+        "dailyReturn": 0.03365204349456322,
+        "annualReturn": 0.22061558489864322,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.025385902919843877,
+        "ytdAnnualReturn": 0.22061558489864322
+      },
+      {
+        "date": "2025-11-14",
+        "nav": 1.143,
+        "dailyReturn": 0.03654665820259364,
+        "annualReturn": 0.4682453230501805,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.06286033103961328,
+        "ytdAnnualReturn": 0.4682453230501805
+      },
+      {
+        "date": "2025-11-21",
+        "nav": 1.128,
+        "dailyReturn": -0.013123359580052603,
+        "annualReturn": 0.3188016419139721,
+        "totalCapital": null,
+        "drawdown": -0.013123359580052618,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.04891203273200668,
+        "ytdAnnualReturn": 0.3188016419139721
+      },
+      {
+        "date": "2025-11-28",
+        "nav": 1.1195,
+        "dailyReturn": -0.007535460992907759,
+        "annualReturn": 0.2375860145062304,
+        "totalCapital": null,
+        "drawdown": -0.020559930008749006,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.04100799702436306,
+        "ytdAnnualReturn": 0.2375860145062304
+      },
+      {
+        "date": "2025-12-05",
+        "nav": 1.1449,
+        "dailyReturn": 0.022688700312639653,
+        "annualReturn": 0.3369842450649598,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.0646271154919101,
+        "ytdAnnualReturn": 0.3369842450649598
+      },
+      {
+        "date": "2025-12-12",
+        "nav": 1.1441,
+        "dailyReturn": -0.0006987509826186862,
+        "annualReturn": 0.3028229906600745,
+        "totalCapital": null,
+        "drawdown": -0.0006987509826187344,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.06388320624883763,
+        "ytdAnnualReturn": 0.3028229906600745
+      },
+      {
+        "date": "2025-12-19",
+        "nav": 1.1425,
+        "dailyReturn": -0.001398479153919958,
+        "annualReturn": 0.2711228158736069,
+        "totalCapital": null,
+        "drawdown": -0.002096252947855648,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.06239538776269311,
+        "ytdAnnualReturn": 0.2711228158736069
+      },
+      {
+        "date": "2025-12-26",
+        "nav": 1.1577,
+        "dailyReturn": 0.01330415754923403,
+        "annualReturn": 0.3069596388361501,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.07652966338106755,
+        "ytdAnnualReturn": 0.3069596388361501
+      },
+      {
+        "date": "2025-12-31",
+        "nav": 1.1628,
+        "dailyReturn": 0.004405286343612425,
+        "annualReturn": 0.3090032391048298,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.08127208480565386,
+        "ytdAnnualReturn": 0.3090032391048298
+      },
+      {
+        "date": "2026-01-09",
+        "nav": 1.1875,
+        "dailyReturn": 0.02124183006535943,
+        "annualReturn": 0.3623590779067814,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.02124183006535943,
+        "ytdAnnualReturn": 0.8614742193173547
+      },
+      {
+        "date": "2026-01-16",
+        "nav": 1.2121,
+        "dailyReturn": 0.020715789473684174,
+        "annualReturn": 0.4142603084566541,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.042397660818713365,
+        "ytdAnnualReturn": 0.9671966374268987
+      },
+      {
+        "date": "2026-01-23",
+        "nav": 1.2191,
+        "dailyReturn": 0.005775101064268722,
+        "annualReturn": 0.4098572663210724,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.04841761265909874,
+        "ytdAnnualReturn": 0.7683664617639582
+      },
+      {
+        "date": "2026-01-30",
+        "nav": 1.2706,
+        "dailyReturn": 0.04224427856615526,
+        "annualReturn": 0.5258139459366911,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.09270725834193318,
+        "ytdAnnualReturn": 1.1279383098268536
+      }
+    ],
+    "stats": {
+      "totalReturn": 27.06,
+      "maxDrawdown": 3.8,
+      "sharpeRatio": 7.58,
+      "volatility": 29.65,
+      "winRate": 63.16,
+      "calmarRatio": 7.12,
+      "startDate": "2025-09-26",
+      "endDate": "2026-01-30",
+      "latestNav": 1.2706
     }
   }
 }
