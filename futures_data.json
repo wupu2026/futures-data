@@ -22848,18 +22848,29 @@
         "maxDrawdown": 0.03466750516188133,
         "ytdReturn": 0.20049764138749096,
         "ytdAnnualReturn": 1.829540977660855
+      },
+      {
+        "date": "2026-02-10",
+        "nav": 1.558750494591442,
+        "dailyReturn": 0.00950108000131467,
+        "annualReturn": 0.8828741581206769,
+        "totalCapital": 78484098.72,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.03466750516188133,
+        "ytdReturn": 0.21190366551970308,
+        "ytdAnnualReturn": 1.886459461333942
       }
     ],
     "stats": {
-      "totalReturn": 54.41,
+      "totalReturn": 55.88,
       "maxDrawdown": 3.47,
-      "sharpeRatio": 4.21,
-      "volatility": 16.42,
-      "winRate": 59.24,
-      "calmarRatio": 15.69,
+      "sharpeRatio": 4.28,
+      "volatility": 16.39,
+      "winRate": 59.49,
+      "calmarRatio": 16.12,
       "startDate": "2025-06-24",
-      "endDate": "2026-02-09",
-      "latestNav": 1.5441
+      "endDate": "2026-02-10",
+      "latestNav": 1.5588
     }
   },
   "融善泰来11号": {
