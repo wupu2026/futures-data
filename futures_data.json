@@ -48255,18 +48255,62 @@
         "maxDrawdown": 0.00043890750988140326,
         "ytdReturn": 0.0033112644268773472,
         "ytdAnnualReturn": 0.4028705052700773
+      },
+      {
+        "date": "2026-02-05",
+        "nav": 1.003479666403162,
+        "dailyReturn": 0.00016784619315606447,
+        "annualReturn": 0.31751955928853215,
+        "totalCapital": 25388035.56,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.00043890750988140326,
+        "ytdReturn": 0.003479666403161996,
+        "ytdAnnualReturn": 0.31751955928853215
+      },
+      {
+        "date": "2026-02-06",
+        "nav": 1.0043981877470356,
+        "dailyReturn": 0.0009153362789760534,
+        "annualReturn": 0.32106770553359865,
+        "totalCapital": 25411274.15,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.00043890750988140326,
+        "ytdReturn": 0.004398187747035598,
+        "ytdAnnualReturn": 0.32106770553359865
+      },
+      {
+        "date": "2026-02-09",
+        "nav": 1.0041917114624506,
+        "dailyReturn": -0.00020557213971898926,
+        "annualReturn": 0.19124683547430701,
+        "totalCapital": 25406050.3,
+        "drawdown": -0.00020557213971894583,
+        "maxDrawdown": 0.00043890750988140326,
+        "ytdReturn": 0.004191711462450565,
+        "ytdAnnualReturn": 0.19124683547430701
+      },
+      {
+        "date": "2026-02-10",
+        "nav": 1.0038796395256917,
+        "dailyReturn": -0.00031076928159900596,
+        "annualReturn": 0.15734093631971904,
+        "totalCapital": 25398154.88,
+        "drawdown": -0.0005162775358118488,
+        "maxDrawdown": 0.0005162775358118488,
+        "ytdReturn": 0.0038796395256917027,
+        "ytdAnnualReturn": 0.15734093631971904
       }
     ],
     "stats": {
-      "totalReturn": 0.33,
-      "maxDrawdown": 0.04,
-      "sharpeRatio": 11.22,
-      "volatility": 1.68,
+      "totalReturn": 0.39,
+      "maxDrawdown": 0.05,
+      "sharpeRatio": 7.22,
+      "volatility": 1.41,
       "winRate": 50.0,
-      "calmarRatio": 7.54,
+      "calmarRatio": 7.51,
       "startDate": "2026-02-01",
-      "endDate": "2026-02-04",
-      "latestNav": 1.0033
+      "endDate": "2026-02-10",
+      "latestNav": 1.0039
     }
   },
   "管轶璟（银河）": {
