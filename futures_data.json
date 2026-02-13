@@ -11282,18 +11282,30 @@
         "ytdAnnualReturn": 2.0717353385162847,
         "deposit": 51000000.0,
         "purpose": "投资款"
+      },
+      {
+        "date": "2026-02-12",
+        "nav": 1.4941,
+        "dailyReturn": -0.00537146365667993,
+        "annualReturn": 0.7979933628318584,
+        "totalCapital": 620320812.83,
+        "drawdown": -0.012301009484587566,
+        "maxDrawdown": 0.09728400284184713,
+        "ytdReturn": 0.23173948887056875,
+        "ytdAnnualReturn": 1.967091010180409,
+        "remark": "负债为：50983090.82"
       }
     ],
     "stats": {
-      "totalReturn": 50.22,
+      "totalReturn": 49.41,
       "maxDrawdown": 9.73,
-      "sharpeRatio": 2.6,
-      "volatility": 26.17,
-      "winRate": 57.79,
-      "calmarRatio": 5.16,
+      "sharpeRatio": 2.56,
+      "volatility": 26.11,
+      "winRate": 57.42,
+      "calmarRatio": 5.08,
       "startDate": "2025-07-01",
-      "endDate": "2026-02-11",
-      "latestNav": 1.5022
+      "endDate": "2026-02-12",
+      "latestNav": 1.4941
     }
   },
   "建瓴九号": {
@@ -47030,18 +47042,29 @@
         "maxDrawdown": 0.0025335892514396496,
         "ytdReturn": 0.0609825416159155,
         "ytdAnnualReturn": 0.4451725537961832
+      },
+      {
+        "date": "2026-02-12",
+        "nav": 1.3059,
+        "dailyReturn": -0.0005357416194703221,
+        "annualReturn": 0.43237562991091694,
+        "totalCapital": null,
+        "drawdown": -0.000918062887307669,
+        "maxDrawdown": 0.0025335892514396496,
+        "ytdReturn": 0.06041412911084045,
+        "ytdAnnualReturn": 0.43237562991091694
       }
     ],
     "stats": {
-      "totalReturn": 30.66,
+      "totalReturn": 30.59,
       "maxDrawdown": 0.25,
-      "sharpeRatio": 13.01,
-      "volatility": 3.13,
-      "winRate": 85.71,
-      "calmarRatio": 121.01,
+      "sharpeRatio": 12.46,
+      "volatility": 3.14,
+      "winRate": 83.33,
+      "calmarRatio": 120.74,
       "startDate": "2025-12-23",
-      "endDate": "2026-02-11",
-      "latestNav": 1.3066
+      "endDate": "2026-02-12",
+      "latestNav": 1.3059
     }
   },
   "国标嘉润": {
@@ -48874,18 +48897,29 @@
         "maxDrawdown": 0.00013290571428570264,
         "ytdReturn": -0.00013290571428570264,
         "ytdAnnualReturn": -0.04851058571428146
+      },
+      {
+        "date": "2026-02-12",
+        "nav": 1.000091967142857,
+        "dailyReturn": 0.0002249027480030454,
+        "annualReturn": 0.016784003571397865,
+        "totalCapital": 7000643.77,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.00013290571428570264,
+        "ytdReturn": 9.19671428569746e-05,
+        "ytdAnnualReturn": 0.016784003571397865
       }
     ],
     "stats": {
-      "totalReturn": -0.01,
+      "totalReturn": 0.01,
       "maxDrawdown": 0.01,
-      "sharpeRatio": -34.83,
-      "volatility": 0.11,
-      "winRate": 0.0,
-      "calmarRatio": -1.0,
+      "sharpeRatio": -5.23,
+      "volatility": 0.23,
+      "winRate": 33.33,
+      "calmarRatio": 0.69,
       "startDate": "2026-02-10",
-      "endDate": "2026-02-11",
-      "latestNav": 0.9999
+      "endDate": "2026-02-12",
+      "latestNav": 1.0001
     }
   },
   "管轶璟（银河）": {
