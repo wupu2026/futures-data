@@ -49134,18 +49134,51 @@
         "maxDrawdown": 0.0005162775358118488,
         "ytdReturn": 0.0038796395256917027,
         "ytdAnnualReturn": 0.15734093631971904
+      },
+      {
+        "date": "2026-02-11",
+        "nav": 1.0036880158102768,
+        "dailyReturn": -0.00019088315757201838,
+        "annualReturn": 0.13461257707510244,
+        "totalCapital": 25393306.8,
+        "drawdown": -0.0007070621446976233,
+        "maxDrawdown": 0.0007070621446976233,
+        "ytdReturn": 0.003688015810276779,
+        "ytdAnnualReturn": 0.13461257707510244
+      },
+      {
+        "date": "2026-02-12",
+        "nav": 1.004010695652174,
+        "dailyReturn": 0.000321494166328823,
+        "annualReturn": 0.1330821739130442,
+        "totalCapital": 25401470.6,
+        "drawdown": -0.00038579529472360097,
+        "maxDrawdown": 0.0007070621446976233,
+        "ytdReturn": 0.0040106956521739345,
+        "ytdAnnualReturn": 0.1330821739130442
+      },
+      {
+        "date": "2026-02-13",
+        "nav": 1.0043365849802373,
+        "dailyReturn": 0.00032458750636280313,
+        "annualReturn": 0.1319044598155499,
+        "totalCapital": 25409715.6,
+        "drawdown": -6.133301269339864e-05,
+        "maxDrawdown": 0.0007070621446976233,
+        "ytdReturn": 0.004336584980237257,
+        "ytdAnnualReturn": 0.1319044598155499
       }
     ],
     "stats": {
-      "totalReturn": 0.39,
-      "maxDrawdown": 0.05,
-      "sharpeRatio": 7.22,
-      "volatility": 1.41,
-      "winRate": 50.0,
-      "calmarRatio": 7.51,
+      "totalReturn": 0.43,
+      "maxDrawdown": 0.07,
+      "sharpeRatio": 6.36,
+      "volatility": 1.24,
+      "winRate": 54.55,
+      "calmarRatio": 6.13,
       "startDate": "2026-02-01",
-      "endDate": "2026-02-10",
-      "latestNav": 1.0039
+      "endDate": "2026-02-13",
+      "latestNav": 1.0043
     }
   },
   "曹磊（中泰）": {
