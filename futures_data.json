@@ -11327,18 +11327,30 @@
         "ytdReturn": 0.23173948887056875,
         "ytdAnnualReturn": 1.967091010180409,
         "remark": "负债为：50983090.82"
+      },
+      {
+        "date": "2026-02-13",
+        "nav": 1.4819,
+        "dailyReturn": -0.008165450773040619,
+        "annualReturn": 0.7748612334801762,
+        "totalCapital": 664493547.48,
+        "drawdown": -0.02036601697022311,
+        "maxDrawdown": 0.09728400284184713,
+        "ytdReturn": 0.2216817807089859,
+        "ytdAnnualReturn": 1.8389511354268147,
+        "remark": "负债为：874626.1"
       }
     ],
     "stats": {
-      "totalReturn": 49.41,
+      "totalReturn": 48.19,
       "maxDrawdown": 9.73,
-      "sharpeRatio": 2.56,
-      "volatility": 26.11,
-      "winRate": 57.42,
-      "calmarRatio": 5.08,
+      "sharpeRatio": 2.49,
+      "volatility": 26.06,
+      "winRate": 57.05,
+      "calmarRatio": 4.95,
       "startDate": "2025-07-01",
-      "endDate": "2026-02-12",
-      "latestNav": 1.4941
+      "endDate": "2026-02-13",
+      "latestNav": 1.4819
     }
   },
   "建瓴九号": {
@@ -47262,18 +47274,29 @@
         "maxDrawdown": 0.0025335892514396496,
         "ytdReturn": 0.06041412911084045,
         "ytdAnnualReturn": 0.43237562991091694
+      },
+      {
+        "date": "2026-02-13",
+        "nav": 1.3085,
+        "dailyReturn": 0.0019909640860708597,
+        "annualReturn": 0.4388800399762639,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0025335892514396496,
+        "ytdReturn": 0.06252537555826225,
+        "ytdAnnualReturn": 0.4388800399762639
       }
     ],
     "stats": {
-      "totalReturn": 30.59,
+      "totalReturn": 30.85,
       "maxDrawdown": 0.25,
-      "sharpeRatio": 12.46,
-      "volatility": 3.14,
-      "winRate": 83.33,
-      "calmarRatio": 120.74,
+      "sharpeRatio": 12.71,
+      "volatility": 3.1,
+      "winRate": 83.78,
+      "calmarRatio": 121.76,
       "startDate": "2025-12-23",
-      "endDate": "2026-02-12",
-      "latestNav": 1.3059
+      "endDate": "2026-02-13",
+      "latestNav": 1.3085
     }
   },
   "国标嘉润": {
