@@ -47063,18 +47063,29 @@
         "maxDrawdown": 0.0006886525365367158,
         "ytdReturn": 0.07871577574967406,
         "ytdAnnualReturn": 0.586352207114919
+      },
+      {
+        "date": "2026-02-24",
+        "nav": 1.3157,
+        "dailyReturn": -0.006118749055748599,
+        "annualReturn": 0.43870192307692324,
+        "totalCapital": null,
+        "drawdown": -0.006118749055748607,
+        "maxDrawdown": 0.006118749055748607,
+        "ytdReturn": 0.07211538461538464,
+        "ytdAnnualReturn": 0.43870192307692324
       }
     ],
     "stats": {
-      "totalReturn": 32.38,
-      "maxDrawdown": 0.07,
-      "sharpeRatio": 16.71,
-      "volatility": 3.25,
-      "winRate": 91.18,
-      "calmarRatio": 470.19,
+      "totalReturn": 31.57,
+      "maxDrawdown": 0.61,
+      "sharpeRatio": 12.41,
+      "volatility": 3.89,
+      "winRate": 88.57,
+      "calmarRatio": 51.6,
       "startDate": "2025-12-26",
-      "endDate": "2026-02-13",
-      "latestNav": 1.3238
+      "endDate": "2026-02-24",
+      "latestNav": 1.3157
     }
   },
   "国标北极星": {
@@ -47486,18 +47497,29 @@
         "maxDrawdown": 0.0025335892514396496,
         "ytdReturn": 0.06252537555826225,
         "ytdAnnualReturn": 0.4388800399762639
+      },
+      {
+        "date": "2026-02-24",
+        "nav": 1.3096,
+        "dailyReturn": 0.0008406572411158586,
+        "annualReturn": 0.36742519446538957,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0025335892514396496,
+        "ytdReturn": 0.06341859520909464,
+        "ytdAnnualReturn": 0.36742519446538957
       }
     ],
     "stats": {
-      "totalReturn": 30.85,
+      "totalReturn": 30.96,
       "maxDrawdown": 0.25,
-      "sharpeRatio": 12.71,
-      "volatility": 3.1,
-      "winRate": 83.78,
-      "calmarRatio": 121.76,
+      "sharpeRatio": 12.68,
+      "volatility": 3.06,
+      "winRate": 84.21,
+      "calmarRatio": 122.2,
       "startDate": "2025-12-23",
-      "endDate": "2026-02-13",
-      "latestNav": 1.3085
+      "endDate": "2026-02-24",
+      "latestNav": 1.3096
     }
   },
   "国标嘉润": {
