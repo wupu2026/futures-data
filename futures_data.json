@@ -50222,18 +50222,29 @@
         "maxDrawdown": 0.04489016236867227,
         "ytdReturn": 0.10202309629243742,
         "ytdAnnualReturn": 0.7599679621783603
+      },
+      {
+        "date": "2026-02-13",
+        "nav": 1.3115,
+        "dailyReturn": 0.03332808068074378,
+        "annualReturn": 0.9043618749922485,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.04489016236867227,
+        "ytdReturn": 0.13875141095771484,
+        "ytdAnnualReturn": 0.9043618749922485
       }
     ],
     "stats": {
-      "totalReturn": 26.92,
+      "totalReturn": 31.15,
       "maxDrawdown": 4.49,
-      "sharpeRatio": 5.54,
-      "volatility": 58.29,
-      "winRate": 62.5,
-      "calmarRatio": 6.0,
+      "sharpeRatio": 6.8,
+      "volatility": 55.89,
+      "winRate": 66.67,
+      "calmarRatio": 6.94,
       "startDate": "2025-12-19",
-      "endDate": "2026-02-06",
-      "latestNav": 1.2692
+      "endDate": "2026-02-13",
+      "latestNav": 1.3115
     }
   },
   "德远（周度）": {
@@ -50458,18 +50469,29 @@
         "maxDrawdown": 0.037989857076994094,
         "ytdReturn": 0.08608531131750934,
         "ytdAnnualReturn": 0.8492199629970516
+      },
+      {
+        "date": "2026-02-13",
+        "nav": 1.2352,
+        "dailyReturn": -0.021933644785810308,
+        "annualReturn": 0.38741066447036365,
+        "totalCapital": null,
+        "drawdown": -0.027860853140248554,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.06226350189198488,
+        "ytdAnnualReturn": 0.5165040497857837
       }
     ],
     "stats": {
-      "totalReturn": 26.29,
+      "totalReturn": 23.52,
       "maxDrawdown": 3.8,
-      "sharpeRatio": 7.0,
-      "volatility": 29.36,
-      "winRate": 60.0,
-      "calmarRatio": 6.92,
+      "sharpeRatio": 5.57,
+      "volatility": 30.42,
+      "winRate": 57.14,
+      "calmarRatio": 6.19,
       "startDate": "2025-09-26",
-      "endDate": "2026-02-06",
-      "latestNav": 1.2629
+      "endDate": "2026-02-13",
+      "latestNav": 1.2352
     }
   }
 }
