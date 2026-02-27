@@ -11461,18 +11461,29 @@
         "maxDrawdown": 0.09728400284184713,
         "ytdReturn": 0.24484748557295954,
         "ytdAnnualReturn": 1.5958809327523256
+      },
+      {
+        "date": "2026-02-26",
+        "nav": 1.5082,
+        "dailyReturn": -0.0011920529801324662,
+        "annualReturn": 0.7728875000000001,
+        "totalCapital": 677262286.7,
+        "drawdown": -0.0029799762429923993,
+        "maxDrawdown": 0.09728400284184713,
+        "ytdReturn": 0.24336356141797189,
+        "ytdAnnualReturn": 1.5583807003080656
       }
     ],
     "stats": {
-      "totalReturn": 51.0,
+      "totalReturn": 50.82,
       "maxDrawdown": 9.73,
-      "sharpeRatio": 2.59,
-      "volatility": 25.92,
-      "winRate": 57.59,
-      "calmarRatio": 5.24,
+      "sharpeRatio": 2.57,
+      "volatility": 25.85,
+      "winRate": 57.23,
+      "calmarRatio": 5.22,
       "startDate": "2025-07-01",
-      "endDate": "2026-02-25",
-      "latestNav": 1.51
+      "endDate": "2026-02-26",
+      "latestNav": 1.5082
     }
   },
   "建瓴九号": {
@@ -47930,18 +47941,29 @@
         "maxDrawdown": 0.0025335892514396496,
         "ytdReturn": 0.06512383272431997,
         "ytdAnnualReturn": 0.37140935850588735
+      },
+      {
+        "date": "2026-02-26",
+        "nav": 1.313,
+        "dailyReturn": 0.0009910802775023684,
+        "annualReturn": 0.3716230987850959,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0025335892514396496,
+        "ytdReturn": 0.06617945594803078,
+        "ytdAnnualReturn": 0.3716230987850959
       }
     ],
     "stats": {
-      "totalReturn": 31.17,
+      "totalReturn": 31.3,
       "maxDrawdown": 0.25,
-      "sharpeRatio": 12.84,
-      "volatility": 3.03,
-      "winRate": 84.62,
-      "calmarRatio": 123.03,
+      "sharpeRatio": 12.85,
+      "volatility": 2.99,
+      "winRate": 85.0,
+      "calmarRatio": 123.54,
       "startDate": "2025-12-23",
-      "endDate": "2026-02-25",
-      "latestNav": 1.3117
+      "endDate": "2026-02-26",
+      "latestNav": 1.313
     }
   },
   "国标嘉润": {
