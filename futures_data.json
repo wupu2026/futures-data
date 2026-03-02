@@ -50234,18 +50234,62 @@
         "maxDrawdown": 0.0007070621446976233,
         "ytdReturn": 0.004336584980237257,
         "ytdAnnualReturn": 0.1319044598155499
+      },
+      {
+        "date": "2026-02-24",
+        "nav": 1.0055047573122529,
+        "dailyReturn": 0.0011631283271818591,
+        "annualReturn": 0.08735810517270845,
+        "totalCapital": 25439270.36,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0007070621446976233,
+        "ytdReturn": 0.0055047573122528615,
+        "ytdAnnualReturn": 0.08735810517270845
+      },
+      {
+        "date": "2026-02-25",
+        "nav": 1.005200367588933,
+        "dailyReturn": -0.00030272330499316947,
+        "annualReturn": 0.07908892374835516,
+        "totalCapital": 25431569.3,
+        "drawdown": -0.0003027233049931466,
+        "maxDrawdown": 0.0007070621446976233,
+        "ytdReturn": 0.0052003675889329415,
+        "ytdAnnualReturn": 0.07908892374835516
+      },
+      {
+        "date": "2026-02-26",
+        "nav": 1.0047627470355731,
+        "dailyReturn": -0.000435356539323104,
+        "annualReturn": 0.06953610671936743,
+        "totalCapital": 25420497.5,
+        "drawdown": -0.0007379480517458736,
+        "maxDrawdown": 0.0007379480517458736,
+        "ytdReturn": 0.004762747035573112,
+        "ytdAnnualReturn": 0.06953610671936743
+      },
+      {
+        "date": "2026-02-27",
+        "nav": 1.005388713833992,
+        "dailyReturn": 0.0006229996088786255,
+        "annualReturn": 0.07564925190027354,
+        "totalCapital": 25436334.46,
+        "drawdown": -0.00011540818421484911,
+        "maxDrawdown": 0.0007379480517458736,
+        "ytdReturn": 0.005388713833992087,
+        "ytdAnnualReturn": 0.07564925190027354
       }
     ],
     "stats": {
-      "totalReturn": 0.43,
+      "totalReturn": 0.54,
       "maxDrawdown": 0.07,
-      "sharpeRatio": 6.36,
-      "volatility": 1.24,
-      "winRate": 54.55,
-      "calmarRatio": 6.13,
+      "sharpeRatio": 5.87,
+      "volatility": 1.2,
+      "winRate": 53.33,
+      "calmarRatio": 7.3,
       "startDate": "2026-02-01",
-      "endDate": "2026-02-13",
-      "latestNav": 1.0043
+      "endDate": "2026-02-27",
+      "latestNav": 1.0054
     }
   },
   "曹磊（中泰）": {
