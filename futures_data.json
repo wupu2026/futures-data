@@ -52707,18 +52707,29 @@
         "maxDrawdown": 0.037989857076994094,
         "ytdReturn": 0.05951152390780867,
         "ytdAnnualReturn": 0.3745121763163821
+      },
+      {
+        "date": "2026-03-06",
+        "nav": 1.2714,
+        "dailyReturn": 0.03198051948051956,
+        "annualReturn": 0.41319306870648775,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.09339525283797731,
+        "ytdAnnualReturn": 0.5244502659363341
       }
     ],
     "stats": {
-      "totalReturn": 23.2,
+      "totalReturn": 27.14,
       "maxDrawdown": 3.8,
-      "sharpeRatio": 5.31,
-      "volatility": 29.88,
-      "winRate": 54.55,
-      "calmarRatio": 6.11,
+      "sharpeRatio": 6.15,
+      "volatility": 30.37,
+      "winRate": 56.52,
+      "calmarRatio": 7.14,
       "startDate": "2025-09-26",
-      "endDate": "2026-02-27",
-      "latestNav": 1.232
+      "endDate": "2026-03-06",
+      "latestNav": 1.2714
     }
   }
 }
