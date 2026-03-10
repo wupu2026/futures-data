@@ -51922,18 +51922,29 @@
         "maxDrawdown": 0.005109690182167448,
         "ytdReturn": 0.0052392015810276416,
         "ytdAnnualReturn": 0.057948744759851185
+      },
+      {
+        "date": "2026-03-09",
+        "nav": 1.0092841747035572,
+        "dailyReturn": 0.00402389114567729,
+        "annualReturn": 0.09413121574439987,
+        "totalCapital": 25534889.62,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.005109690182167448,
+        "ytdReturn": 0.009284174703557246,
+        "ytdAnnualReturn": 0.09413121574439987
       }
     ],
     "stats": {
-      "totalReturn": 0.52,
+      "totalReturn": 0.93,
       "maxDrawdown": 0.51,
-      "sharpeRatio": 1.92,
-      "volatility": 2.41,
-      "winRate": 55.0,
-      "calmarRatio": 1.03,
+      "sharpeRatio": 3.41,
+      "volatility": 2.67,
+      "winRate": 57.14,
+      "calmarRatio": 1.82,
       "startDate": "2026-02-01",
-      "endDate": "2026-03-06",
-      "latestNav": 1.0052
+      "endDate": "2026-03-09",
+      "latestNav": 1.0093
     }
   },
   "曹磊（中泰）": {
