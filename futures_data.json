@@ -12003,18 +12003,29 @@
         "ytdAnnualReturn": 1.2746748190894932,
         "deposit": 5000000.0,
         "purpose": "投资款"
+      },
+      {
+        "date": "2026-03-16",
+        "nav": 1.52,
+        "dailyReturn": 0.0013175230566534926,
+        "annualReturn": 0.7356589147286822,
+        "totalCapital": 727031253.53,
+        "drawdown": -0.021816075680545777,
+        "maxDrawdown": 0.09728400284184713,
+        "ytdReturn": 0.25309150865622415,
+        "ytdAnnualReturn": 1.2317120087936242
       }
     ],
     "stats": {
-      "totalReturn": 51.8,
+      "totalReturn": 52.0,
       "maxDrawdown": 9.73,
       "sharpeRatio": 2.49,
-      "volatility": 25.35,
-      "winRate": 57.65,
-      "calmarRatio": 5.32,
+      "volatility": 25.27,
+      "winRate": 57.89,
+      "calmarRatio": 5.35,
       "startDate": "2025-07-01",
-      "endDate": "2026-03-13",
-      "latestNav": 1.518
+      "endDate": "2026-03-16",
+      "latestNav": 1.52
     }
   },
   "建瓴九号": {
@@ -50522,18 +50533,29 @@
         "maxDrawdown": 0.0026483050847457834,
         "ytdReturn": 0.07259439707673562,
         "ytdAnnualReturn": 0.3312119366626063
+      },
+      {
+        "date": "2026-03-16",
+        "nav": 1.3211,
+        "dailyReturn": 0.0001514119161177818,
+        "annualReturn": 0.3199546052663757,
+        "totalCapital": null,
+        "drawdown": -0.00037832929782100067,
+        "maxDrawdown": 0.0026483050847457834,
+        "ytdReturn": 0.0727568006496142,
+        "ytdAnnualReturn": 0.3199546052663757
       }
     ],
     "stats": {
-      "totalReturn": 32.09,
+      "totalReturn": 32.11,
       "maxDrawdown": 0.26,
-      "sharpeRatio": 11.27,
-      "volatility": 2.9,
-      "winRate": 84.31,
-      "calmarRatio": 121.17,
+      "sharpeRatio": 11.13,
+      "volatility": 2.88,
+      "winRate": 84.62,
+      "calmarRatio": 121.25,
       "startDate": "2025-12-23",
-      "endDate": "2026-03-13",
-      "latestNav": 1.3209
+      "endDate": "2026-03-16",
+      "latestNav": 1.3211
     }
   },
   "国标嘉润": {
