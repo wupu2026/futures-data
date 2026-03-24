@@ -46719,18 +46719,29 @@
         "maxDrawdown": 0.04253579745330227,
         "ytdReturn": 0.8684796331982193,
         "ytdAnnualReturn": 4.012595773637343
+      },
+      {
+        "date": "2026-03-23",
+        "nav": 11.5711,
+        "dailyReturn": 0.028770837963991908,
+        "annualReturn": 7.662587485591419,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.04253579745330227,
+        "ytdReturn": 0.9222373579639843,
+        "ytdAnnualReturn": 4.105080922644564
       }
     ],
     "stats": {
-      "totalReturn": 1024.75,
+      "totalReturn": 1057.11,
       "maxDrawdown": 4.25,
-      "sharpeRatio": 8.47,
-      "volatility": 20.66,
-      "winRate": 74.1,
-      "calmarRatio": 240.91,
+      "sharpeRatio": 8.52,
+      "volatility": 20.71,
+      "winRate": 74.18,
+      "calmarRatio": 248.52,
       "startDate": "2024-09-13",
-      "endDate": "2026-03-20",
-      "latestNav": 11.2475
+      "endDate": "2026-03-23",
+      "latestNav": 11.5711
     }
   },
   "国标乾一": {
