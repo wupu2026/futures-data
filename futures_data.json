@@ -23090,18 +23090,29 @@
         "maxDrawdown": 0.17459438289344753,
         "ytdReturn": 0.15917989994468476,
         "ytdAnnualReturn": 0.6916745652358326
+      },
+      {
+        "date": "2026-03-26",
+        "nav": 1.167974463017818,
+        "dailyReturn": -0.002092815997868556,
+        "annualReturn": 0.14086018161265182,
+        "totalCapital": 14016779.06,
+        "drawdown": -0.011208227696652528,
+        "maxDrawdown": 0.17459438289344753,
+        "ytdReturn": 0.15675394970567286,
+        "ytdAnnualReturn": 0.6731199016773012
       }
     ],
     "stats": {
-      "totalReturn": 17.04,
+      "totalReturn": 16.8,
       "maxDrawdown": 82.34,
       "sharpeRatio": 0.67,
-      "volatility": 187.75,
-      "winRate": 62.19,
-      "calmarRatio": 0.21,
+      "volatility": 187.54,
+      "winRate": 62.05,
+      "calmarRatio": 0.2,
       "startDate": "2024-05-22",
-      "endDate": "2026-03-25",
-      "latestNav": 1.1704
+      "endDate": "2026-03-26",
+      "latestNav": 1.168
     }
   },
   "青云一号": {
@@ -25149,18 +25160,29 @@
         "maxDrawdown": 0.07780056651190825,
         "ytdReturn": 0.1620307283914991,
         "ytdAnnualReturn": 0.7040620936059186
+      },
+      {
+        "date": "2026-03-26",
+        "nav": 1.4934201038496875,
+        "dailyReturn": -0.0007920620234929119,
+        "annualReturn": 0.654903046927767,
+        "totalCapital": 76038323.8,
+        "drawdown": -0.05982814637129963,
+        "maxDrawdown": 0.07780056651190825,
+        "ytdReturn": 0.1611103279814084,
+        "ytdAnnualReturn": 0.6918267025084008
       }
     ],
     "stats": {
-      "totalReturn": 49.46,
+      "totalReturn": 49.34,
       "maxDrawdown": 7.78,
-      "sharpeRatio": 3.35,
-      "volatility": 16.34,
-      "winRate": 57.92,
-      "calmarRatio": 6.36,
+      "sharpeRatio": 3.33,
+      "volatility": 16.3,
+      "winRate": 57.61,
+      "calmarRatio": 6.34,
       "startDate": "2025-06-24",
-      "endDate": "2026-03-25",
-      "latestNav": 1.4946
+      "endDate": "2026-03-26",
+      "latestNav": 1.4934
     }
   },
   "卜（1892）": {
