@@ -16851,18 +16851,29 @@
         "maxDrawdown": 0.014188629150564958,
         "ytdReturn": 0.42359543240226416,
         "ytdAnnualReturn": 1.8406230098431717
+      },
+      {
+        "date": "2026-03-26",
+        "nav": 1.8750821479900648,
+        "dailyReturn": 0.0006422402579886125,
+        "annualReturn": 0.5219035686542053,
+        "totalCapital": 37447693.34,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.014188629150564958,
+        "ytdReturn": 0.4245097227000416,
+        "ytdAnnualReturn": 1.8228946915942965
       }
     ],
     "stats": {
-      "totalReturn": 87.39,
+      "totalReturn": 87.51,
       "maxDrawdown": 1.42,
       "sharpeRatio": 4.69,
-      "volatility": 7.98,
-      "winRate": 69.14,
-      "calmarRatio": 61.59,
+      "volatility": 7.97,
+      "winRate": 69.21,
+      "calmarRatio": 61.67,
       "startDate": "2024-07-22",
-      "endDate": "2026-03-25",
-      "latestNav": 1.8739
+      "endDate": "2026-03-26",
+      "latestNav": 1.8751
     }
   },
   "李（6626）": {
