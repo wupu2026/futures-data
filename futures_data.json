@@ -12361,18 +12361,29 @@
         "maxDrawdown": 0.12040671857905916,
         "ytdReturn": 0.16603462489694973,
         "ytdAnnualReturn": 0.7214599772307935
+      },
+      {
+        "date": "2026-03-26",
+        "nav": 1.3989,
+        "dailyReturn": -0.010958710407239867,
+        "annualReturn": 0.5432779850746269,
+        "totalCapital": 672030700.07,
+        "drawdown": -0.09974901859836538,
+        "maxDrawdown": 0.12040671857905916,
+        "ytdReturn": 0.15325638911788947,
+        "ytdAnnualReturn": 0.6581009650356431
       }
     ],
     "stats": {
-      "totalReturn": 41.44,
+      "totalReturn": 39.89,
       "maxDrawdown": 12.04,
-      "sharpeRatio": 1.95,
-      "volatility": 25.92,
-      "winRate": 56.74,
-      "calmarRatio": 3.44,
+      "sharpeRatio": 1.88,
+      "volatility": 25.9,
+      "winRate": 56.42,
+      "calmarRatio": 3.31,
       "startDate": "2025-07-01",
-      "endDate": "2026-03-25",
-      "latestNav": 1.4144
+      "endDate": "2026-03-26",
+      "latestNav": 1.3989
     }
   },
   "建瓴九号": {
@@ -47846,18 +47857,29 @@
         "maxDrawdown": 0.006118749055748607,
         "ytdReturn": 0.11676988265971315,
         "ytdAnnualReturn": 0.4788877210201719
+      },
+      {
+        "date": "2026-03-26",
+        "nav": 1.3735,
+        "dailyReturn": 0.0021889821233125805,
+        "annualReturn": 0.48348091409532046,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.006118749055748607,
+        "ytdReturn": 0.11921447196870914,
+        "ytdAnnualReturn": 0.48348091409532046
       }
     ],
     "stats": {
-      "totalReturn": 37.05,
+      "totalReturn": 37.35,
       "maxDrawdown": 0.61,
-      "sharpeRatio": 12.65,
-      "volatility": 3.78,
-      "winRate": 89.29,
-      "calmarRatio": 60.55,
+      "sharpeRatio": 12.79,
+      "volatility": 3.75,
+      "winRate": 89.47,
+      "calmarRatio": 61.04,
       "startDate": "2025-12-26",
-      "endDate": "2026-03-25",
-      "latestNav": 1.3705
+      "endDate": "2026-03-26",
+      "latestNav": 1.3735
     }
   },
   "国标北极星": {
@@ -48511,18 +48533,29 @@
         "maxDrawdown": 0.0026483050847457834,
         "ytdReturn": 0.0875355257815671,
         "ytdAnnualReturn": 0.34728768380730424
+      },
+      {
+        "date": "2026-03-26",
+        "nav": 1.3404,
+        "dailyReturn": 0.0008213245725379683,
+        "annualReturn": 0.3470590546540411,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0026483050847457834,
+        "ytdReturn": 0.08842874543239951,
+        "ytdAnnualReturn": 0.3470590546540411
       }
     ],
     "stats": {
-      "totalReturn": 33.93,
+      "totalReturn": 34.04,
       "maxDrawdown": 0.26,
       "sharpeRatio": 11.66,
-      "volatility": 2.91,
-      "winRate": 84.75,
-      "calmarRatio": 128.12,
+      "volatility": 2.89,
+      "winRate": 85.0,
+      "calmarRatio": 128.54,
       "startDate": "2025-12-23",
-      "endDate": "2026-03-25",
-      "latestNav": 1.3393
+      "endDate": "2026-03-26",
+      "latestNav": 1.3404
     }
   },
   "国标嘉润": {
@@ -51256,18 +51289,29 @@
         "maxDrawdown": 0.05246491543720766,
         "ytdReturn": 0.14895179052124977,
         "ytdAnnualReturn": 0.6472309945268591
+      },
+      {
+        "date": "2026-03-26",
+        "nav": 1.4105,
+        "dailyReturn": 0.0014199503017394402,
+        "annualReturn": 0.2629803081887696,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.05246491543720766,
+        "ytdReturn": 0.1505832449628845,
+        "ytdAnnualReturn": 0.6466221695465041
       }
     ],
     "stats": {
-      "totalReturn": 40.85,
+      "totalReturn": 41.05,
       "maxDrawdown": 5.25,
       "sharpeRatio": 5.26,
-      "volatility": 11.93,
-      "winRate": 58.52,
-      "calmarRatio": 7.79,
+      "volatility": 11.89,
+      "winRate": 58.82,
+      "calmarRatio": 7.82,
       "startDate": "2025-08-29",
-      "endDate": "2026-03-25",
-      "latestNav": 1.4085
+      "endDate": "2026-03-26",
+      "latestNav": 1.4105
     }
   },
   "曹磊（瑞达）": {
