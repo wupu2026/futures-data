@@ -23186,18 +23186,29 @@
         "maxDrawdown": 0.17459438289344753,
         "ytdReturn": 0.15675394970567286,
         "ytdAnnualReturn": 0.6731199016773012
+      },
+      {
+        "date": "2026-03-27",
+        "nav": 1.180882057502048,
+        "dailyReturn": 0.011051264298090356,
+        "annualReturn": 0.15134277749598057,
+        "totalCapital": 14171682.19,
+        "drawdown": -0.0002808284851510967,
+        "maxDrawdown": 0.17459438289344753,
+        "ytdReturn": 0.16953754333173016,
+        "ytdAnnualReturn": 0.7195488757683896
       }
     ],
     "stats": {
-      "totalReturn": 16.8,
+      "totalReturn": 18.09,
       "maxDrawdown": 82.34,
       "sharpeRatio": 0.67,
-      "volatility": 187.54,
-      "winRate": 62.05,
-      "calmarRatio": 0.2,
+      "volatility": 187.33,
+      "winRate": 62.14,
+      "calmarRatio": 0.22,
       "startDate": "2024-05-22",
-      "endDate": "2026-03-26",
-      "latestNav": 1.168
+      "endDate": "2026-03-27",
+      "latestNav": 1.1809
     }
   },
   "青云一号": {
@@ -53590,18 +53601,29 @@
         "maxDrawdown": 0.037989857076994094,
         "ytdReturn": 0.11635706914344683,
         "ytdAnnualReturn": 0.5375991169285834
+      },
+      {
+        "date": "2026-03-27",
+        "nav": 1.3227,
+        "dailyReturn": 0.01895077420845848,
+        "annualReturn": 0.46118541120400913,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.037989857076994094,
+        "ytdReturn": 0.13751289989680077,
+        "ytdAnnualReturn": 0.5836303309573521
       }
     ],
     "stats": {
-      "totalReturn": 29.81,
+      "totalReturn": 32.27,
       "maxDrawdown": 3.8,
-      "sharpeRatio": 6.58,
-      "volatility": 29.29,
-      "winRate": 60.0,
-      "calmarRatio": 7.85,
+      "sharpeRatio": 7.04,
+      "volatility": 28.93,
+      "winRate": 61.54,
+      "calmarRatio": 8.49,
       "startDate": "2025-09-26",
-      "endDate": "2026-03-20",
-      "latestNav": 1.2981
+      "endDate": "2026-03-27",
+      "latestNav": 1.3227
     }
   }
 }
