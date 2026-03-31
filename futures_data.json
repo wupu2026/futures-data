@@ -16967,18 +16967,29 @@
         "maxDrawdown": 0.014188629150564958,
         "ytdReturn": 0.4288174851917972,
         "ytdAnnualReturn": 1.8199811871512321
+      },
+      {
+        "date": "2026-03-30",
+        "nav": 1.8814736036967,
+        "dailyReturn": 0.00038343586181659514,
+        "annualReturn": 0.522301729463142,
+        "totalCapital": 37575338.56,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.014188629150564958,
+        "ytdReturn": 0.4293653450556103,
+        "ytdAnnualReturn": 1.7608803476999748
       }
     ],
     "stats": {
-      "totalReturn": 88.08,
+      "totalReturn": 88.15,
       "maxDrawdown": 1.42,
-      "sharpeRatio": 4.71,
-      "volatility": 7.96,
-      "winRate": 69.29,
-      "calmarRatio": 62.07,
+      "sharpeRatio": 4.7,
+      "volatility": 7.95,
+      "winRate": 69.36,
+      "calmarRatio": 62.13,
       "startDate": "2024-07-22",
-      "endDate": "2026-03-27",
-      "latestNav": 1.8808
+      "endDate": "2026-03-30",
+      "latestNav": 1.8815
     }
   },
   "李（6626）": {
@@ -23252,18 +23263,29 @@
         "maxDrawdown": 0.17459438289344753,
         "ytdReturn": 0.16953754333173016,
         "ytdAnnualReturn": 0.7195488757683896
+      },
+      {
+        "date": "2026-03-30",
+        "nav": 1.1806613220978213,
+        "dailyReturn": -0.00018692417487794057,
+        "annualReturn": 0.15012501723395164,
+        "totalCapital": 14169033.16,
+        "drawdown": -0.0004677001663960789,
+        "maxDrawdown": 0.17459438289344753,
+        "ytdReturn": 0.1693189284914541,
+        "ytdAnnualReturn": 0.6943978528020309
       }
     ],
     "stats": {
-      "totalReturn": 18.09,
+      "totalReturn": 18.07,
       "maxDrawdown": 82.34,
       "sharpeRatio": 0.67,
-      "volatility": 187.33,
-      "winRate": 62.14,
+      "volatility": 187.12,
+      "winRate": 62.0,
       "calmarRatio": 0.22,
       "startDate": "2024-05-22",
-      "endDate": "2026-03-27",
-      "latestNav": 1.1809
+      "endDate": "2026-03-30",
+      "latestNav": 1.1807
     }
   },
   "青云一号": {
@@ -25333,18 +25355,29 @@
         "maxDrawdown": 0.07780056651190825,
         "ytdReturn": 0.1659379993334574,
         "ytdAnnualReturn": 0.7042717413571157
+      },
+      {
+        "date": "2026-03-30",
+        "nav": 1.5016306273924236,
+        "dailyReturn": 0.0013344447479354262,
+        "annualReturn": 0.6562551218574717,
+        "totalCapital": 76456367.22,
+        "drawdown": -0.05465927050138353,
+        "maxDrawdown": 0.07780056651190825,
+        "ytdReturn": 0.16749387917308628,
+        "ytdAnnualReturn": 0.6869130999795111
       }
     ],
     "stats": {
-      "totalReturn": 49.96,
+      "totalReturn": 50.16,
       "maxDrawdown": 7.78,
       "sharpeRatio": 3.36,
-      "volatility": 16.25,
-      "winRate": 57.84,
-      "calmarRatio": 6.42,
+      "volatility": 16.21,
+      "winRate": 58.06,
+      "calmarRatio": 6.45,
       "startDate": "2025-06-24",
-      "endDate": "2026-03-27",
-      "latestNav": 1.4996
+      "endDate": "2026-03-30",
+      "latestNav": 1.5016
     }
   },
   "卜（1892）": {
