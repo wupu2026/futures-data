@@ -23340,18 +23340,29 @@
         "maxDrawdown": 0.17459438289344753,
         "ytdReturn": 0.1693189284914541,
         "ytdAnnualReturn": 0.6943978528020309
+      },
+      {
+        "date": "2026-03-31",
+        "nav": 1.1713371767451086,
+        "dailyReturn": -0.007897392061717856,
+        "annualReturn": 0.14204902161810148,
+        "totalCapital": 14057134.75,
+        "drawdown": -0.008361398616532623,
+        "maxDrawdown": 0.17459438289344753,
+        "ytdReturn": 0.16008435846796928,
+        "ytdAnnualReturn": 0.6492310093423199
       }
     ],
     "stats": {
-      "totalReturn": 18.07,
+      "totalReturn": 17.13,
       "maxDrawdown": 82.34,
       "sharpeRatio": 0.67,
-      "volatility": 187.12,
-      "winRate": 62.0,
-      "calmarRatio": 0.22,
+      "volatility": 186.92,
+      "winRate": 61.86,
+      "calmarRatio": 0.21,
       "startDate": "2024-05-22",
-      "endDate": "2026-03-30",
-      "latestNav": 1.1807
+      "endDate": "2026-03-31",
+      "latestNav": 1.1713
     }
   },
   "青云一号": {
