@@ -56203,18 +56203,31 @@
         "maxDrawdown": 0.005109690182167448,
         "ytdReturn": 0.027636244552327494,
         "ytdAnnualReturn": 0.11729336350697134
+      },
+      {
+        "date": "2026-04-29",
+        "nav": 1.0298897736785835,
+        "dailyReturn": 0.002192924916965822,
+        "annualReturn": 0.1253996252032525,
+        "totalCapital": 25344864.43,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.005109690182167448,
+        "ytdReturn": 0.029889773678583476,
+        "ytdAnnualReturn": 0.1253996252032525,
+        "deposit": 74857.37,
+        "purpose": "手续费返还"
       }
     ],
     "stats": {
-      "totalReturn": 2.76,
+      "totalReturn": 2.99,
       "maxDrawdown": 0.51,
-      "sharpeRatio": 3.49,
+      "sharpeRatio": 3.75,
       "volatility": 2.95,
-      "winRate": 62.5,
-      "calmarRatio": 5.41,
+      "winRate": 63.16,
+      "calmarRatio": 5.85,
       "startDate": "2026-02-01",
-      "endDate": "2026-04-28",
-      "latestNav": 1.0276
+      "endDate": "2026-04-29",
+      "latestNav": 1.0299
     }
   },
   "曹磊（中泰）": {
