@@ -11816,18 +11816,29 @@
         "maxDrawdown": 0.12040671857905916,
         "ytdReturn": 0.3051112943116239,
         "ytdAnnualReturn": 0.5303124877321083
+      },
+      {
+        "date": "2026-07-30",
+        "nav": 1.5535,
+        "dailyReturn": -0.018697492262017466,
+        "annualReturn": 0.5127601522842641,
+        "totalCapital": 713648093.01,
+        "drawdown": -0.07369864647307844,
+        "maxDrawdown": 0.12040671857905916,
+        "ytdReturn": 0.28070898598516075,
+        "ytdAnnualReturn": 0.4855866345240933
       }
     ],
     "stats": {
-      "totalReturn": 58.31,
+      "totalReturn": 55.35,
       "maxDrawdown": 12.04,
-      "sharpeRatio": 1.64,
-      "volatility": 28.04,
-      "winRate": 56.65,
-      "calmarRatio": 4.84,
+      "sharpeRatio": 1.57,
+      "volatility": 28.05,
+      "winRate": 56.44,
+      "calmarRatio": 4.6,
       "startDate": "2025-07-01",
-      "endDate": "2026-07-29",
-      "latestNav": 1.5831
+      "endDate": "2026-07-30",
+      "latestNav": 1.5535
     }
   },
   "建瓴九号": {
@@ -36686,18 +36697,29 @@
         "maxDrawdown": 0.10807733987614443,
         "ytdReturn": 0.01809792426770329,
         "ytdAnnualReturn": 0.05845789697090001
+      },
+      {
+        "date": "2026-07-30",
+        "nav": 1.034872234011842,
+        "dailyReturn": 0.016476126062435537,
+        "annualReturn": 0.11165232819580966,
+        "totalCapital": 11644131.7,
+        "drawdown": -0.013861557017346371,
+        "maxDrawdown": 0.10807733987614443,
+        "ytdReturn": 0.03487223401184192,
+        "ytdAnnualReturn": 0.11165232819580966
       }
     ],
     "stats": {
-      "totalReturn": 1.81,
+      "totalReturn": 3.49,
       "maxDrawdown": 10.81,
-      "sharpeRatio": 0.28,
-      "volatility": 24.53,
-      "winRate": 52.56,
-      "calmarRatio": 0.17,
+      "sharpeRatio": 0.49,
+      "volatility": 24.54,
+      "winRate": 53.16,
+      "calmarRatio": 0.32,
       "startDate": "2026-04-07",
-      "endDate": "2026-07-29",
-      "latestNav": 1.0181
+      "endDate": "2026-07-30",
+      "latestNav": 1.0349
     }
   },
   "建瓴六号(6199)": {
@@ -58068,18 +58090,29 @@
         "maxDrawdown": 0.0026483050847457834,
         "ytdReturn": 0.21892001624035734,
         "ytdAnnualReturn": 0.36654039416390105
+      },
+      {
+        "date": "2026-07-30",
+        "nav": 1.5043,
+        "dailyReturn": 0.002131770035307354,
+        "annualReturn": 0.3691974556773581,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0026483050847457834,
+        "ytdReturn": 0.22151847340641487,
+        "ytdAnnualReturn": 0.3691974556773581
       }
     ],
     "stats": {
-      "totalReturn": 50.11,
+      "totalReturn": 50.43,
       "maxDrawdown": 0.26,
-      "sharpeRatio": 12.69,
-      "volatility": 2.58,
-      "winRate": 85.42,
-      "calmarRatio": 189.22,
+      "sharpeRatio": 12.78,
+      "volatility": 2.57,
+      "winRate": 85.52,
+      "calmarRatio": 190.42,
       "startDate": "2025-12-23",
-      "endDate": "2026-07-29",
-      "latestNav": 1.5011
+      "endDate": "2026-07-30",
+      "latestNav": 1.5043
     }
   },
   "国标嘉润": {
