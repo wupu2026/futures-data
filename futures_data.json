@@ -12082,18 +12082,29 @@
         "maxDrawdown": 0.12040671857905916,
         "ytdReturn": 0.40403957131079965,
         "ytdAnnualReturn": 0.6764882730662471
+      },
+      {
+        "date": "2026-08-07",
+        "nav": 1.7164,
+        "dailyReturn": 0.007809288943690838,
+        "annualReturn": 0.6504626865671641,
+        "totalCapital": 794280810.58,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.12040671857905916,
+        "ytdReturn": 0.41500412201154147,
+        "ytdAnnualReturn": 0.6916735366859025
       }
     ],
     "stats": {
-      "totalReturn": 70.31,
+      "totalReturn": 71.64,
       "maxDrawdown": 12.04,
-      "sharpeRatio": 1.84,
-      "volatility": 28.14,
-      "winRate": 57.25,
-      "calmarRatio": 5.84,
+      "sharpeRatio": 1.86,
+      "volatility": 28.1,
+      "winRate": 57.41,
+      "calmarRatio": 5.95,
       "startDate": "2025-07-01",
-      "endDate": "2026-08-06",
-      "latestNav": 1.7031
+      "endDate": "2026-08-07",
+      "latestNav": 1.7164
     }
   },
   "建瓴九号": {
@@ -59325,18 +59336,29 @@
         "maxDrawdown": 0.0026483050847457834,
         "ytdReturn": 0.23166869671132756,
         "ytdAnnualReturn": 0.3741551960160821
+      },
+      {
+        "date": "2026-08-07",
+        "nav": 1.5203,
+        "dailyReturn": 0.002307489451476832,
+        "annualReturn": 0.3770767714598971,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0026483050847457834,
+        "ytdReturn": 0.23451075923670314,
+        "ytdAnnualReturn": 0.3770767714598971
       }
     ],
     "stats": {
-      "totalReturn": 51.68,
+      "totalReturn": 52.03,
       "maxDrawdown": 0.26,
-      "sharpeRatio": 13.03,
-      "volatility": 2.54,
-      "winRate": 86.0,
-      "calmarRatio": 195.14,
+      "sharpeRatio": 13.11,
+      "volatility": 2.53,
+      "winRate": 86.09,
+      "calmarRatio": 196.47,
       "startDate": "2025-12-23",
-      "endDate": "2026-08-06",
-      "latestNav": 1.5168
+      "endDate": "2026-08-07",
+      "latestNav": 1.5203
     }
   },
   "国标嘉润": {
