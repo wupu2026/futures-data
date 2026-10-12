@@ -6929,18 +6929,29 @@
         "maxDrawdown": 0.006211253675055595,
         "ytdReturn": 0.1403191666095671,
         "ytdAnnualReturn": 0.18226510965299642
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.5700866885731204,
+        "dailyReturn": 0.0002786327658677978,
+        "annualReturn": 0.2225472099777422,
+        "totalCapital": 28446682.69,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.006211253675055595,
+        "ytdReturn": 0.14063689689293157,
+        "ytdAnnualReturn": 0.18203002612028377
       }
     ],
     "stats": {
-      "totalReturn": 56.96,
+      "totalReturn": 57.01,
       "maxDrawdown": 0.62,
       "sharpeRatio": 4.13,
       "volatility": 3.98,
-      "winRate": 64.3,
-      "calmarRatio": 91.71,
+      "winRate": 64.35,
+      "calmarRatio": 91.78,
       "startDate": "2024-03-18",
-      "endDate": "2026-10-08",
-      "latestNav": 1.5696
+      "endDate": "2026-10-09",
+      "latestNav": 1.5701
     }
   },
   "建瓴（国君）": {
@@ -8291,18 +8302,29 @@
         "maxDrawdown": 0.09878746938401994,
         "ytdReturn": 0.1241303572538488,
         "ytdAnnualReturn": 0.2475824065445618
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.1328316593357028,
+        "dailyReturn": 0.007740474248120617,
+        "annualReturn": 0.2634975850952801,
+        "totalCapital": 18002387.54,
+        "drawdown": -0.040514909055885506,
+        "maxDrawdown": 0.09878746938401994,
+        "ytdReturn": 0.13283165933570285,
+        "ytdAnnualReturn": 0.2634975850952801
       }
     ],
     "stats": {
-      "totalReturn": 12.41,
+      "totalReturn": 13.28,
       "maxDrawdown": 9.88,
-      "sharpeRatio": 1.45,
-      "volatility": 16.2,
-      "winRate": 51.64,
-      "calmarRatio": 1.26,
+      "sharpeRatio": 1.54,
+      "volatility": 16.16,
+      "winRate": 52.03,
+      "calmarRatio": 1.34,
       "startDate": "2026-04-08",
-      "endDate": "2026-10-08",
-      "latestNav": 1.1241
+      "endDate": "2026-10-09",
+      "latestNav": 1.1328
     }
   },
   "建瓴二号（3892）": {
@@ -10311,18 +10333,29 @@
         "ytdReturn": 0.1493386701126056,
         "ytdAnnualReturn": 0.199665254912458,
         "deposit": 25000000.0
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.146986050955286,
+        "dailyReturn": -0.0020469329175960382,
+        "annualReturn": 0.19580258612656717,
+        "totalCapital": 131812581.06,
+        "drawdown": -0.002046932917596056,
+        "maxDrawdown": 0.015171482670250591,
+        "ytdReturn": 0.14698605095528605,
+        "ytdAnnualReturn": 0.19580258612656717
       }
     ],
     "stats": {
-      "totalReturn": 14.93,
+      "totalReturn": 14.7,
       "maxDrawdown": 1.52,
-      "sharpeRatio": 5.23,
-      "volatility": 3.38,
-      "winRate": 67.04,
-      "calmarRatio": 9.84,
+      "sharpeRatio": 5.1,
+      "volatility": 3.39,
+      "winRate": 66.67,
+      "calmarRatio": 9.69,
       "startDate": "2026-01-08",
-      "endDate": "2026-10-08",
-      "latestNav": 1.1493
+      "endDate": "2026-10-09",
+      "latestNav": 1.147
     }
   },
   "青云二号": {
@@ -13780,18 +13813,29 @@
         "maxDrawdown": 0.12040671857905916,
         "ytdReturn": 0.41516900247320676,
         "ytdAnnualReturn": 0.5392764622872614
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.768,
+        "dailyReturn": 0.029942910404287613,
+        "annualReturn": 0.6028387096774194,
+        "totalCapital": 886238725.34,
+        "drawdown": -0.04251286217167616,
+        "maxDrawdown": 0.12040671857905916,
+        "ytdReturn": 0.4575432811211871,
+        "ytdAnnualReturn": 0.5922102752100471
       }
     ],
     "stats": {
-      "totalReturn": 71.66,
+      "totalReturn": 76.8,
       "maxDrawdown": 12.04,
-      "sharpeRatio": 1.67,
-      "volatility": 27.56,
-      "winRate": 57.14,
-      "calmarRatio": 5.95,
+      "sharpeRatio": 1.75,
+      "volatility": 27.63,
+      "winRate": 57.28,
+      "calmarRatio": 6.38,
       "startDate": "2025-07-01",
-      "endDate": "2026-10-08",
-      "latestNav": 1.7166
+      "endDate": "2026-10-09",
+      "latestNav": 1.768
     }
   },
   "建瓴九号": {
@@ -19693,18 +19737,29 @@
         "maxDrawdown": 0.017482680474941392,
         "ytdReturn": 0.5490554461440867,
         "ytdAnnualReturn": 0.7131858997956999
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 2.0460219924802816,
+        "dailyReturn": 0.0034331703172048983,
+        "annualReturn": 0.47193822899295773,
+        "totalCapital": 40959764.29,
+        "drawdown": -0.0037895124193702,
+        "maxDrawdown": 0.017482680474941392,
+        "ytdReturn": 0.5543736173214933,
+        "ytdAnnualReturn": 0.7175403202920037
       }
     ],
     "stats": {
-      "totalReturn": 103.9,
+      "totalReturn": 104.6,
       "maxDrawdown": 1.75,
-      "sharpeRatio": 4.3,
+      "sharpeRatio": 4.32,
       "volatility": 7.4,
-      "winRate": 66.92,
-      "calmarRatio": 59.43,
+      "winRate": 66.98,
+      "calmarRatio": 59.83,
       "startDate": "2024-07-22",
-      "endDate": "2026-10-08",
-      "latestNav": 2.039
+      "endDate": "2026-10-09",
+      "latestNav": 2.046
     }
   },
   "高山一号": {
@@ -26056,18 +26111,29 @@
         "maxDrawdown": 0.17459438289344753,
         "ytdReturn": 0.26897812510395225,
         "ytdAnnualReturn": 0.3493843973770199
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.2735095075719587,
+        "dailyReturn": -0.006070227867015295,
+        "annualReturn": 0.15790264282241287,
+        "totalCapital": 8165575.164136,
+        "drawdown": -0.02411516596368979,
+        "maxDrawdown": 0.17459438289344753,
+        "ytdReturn": 0.2612751387263134,
+        "ytdAnnualReturn": 0.33817526820959004
       }
     ],
     "stats": {
-      "totalReturn": 28.13,
+      "totalReturn": 27.35,
       "maxDrawdown": 82.34,
       "sharpeRatio": 0.61,
-      "volatility": 165.38,
-      "winRate": 60.14,
-      "calmarRatio": 0.34,
+      "volatility": 165.23,
+      "winRate": 60.03,
+      "calmarRatio": 0.33,
       "startDate": "2024-05-22",
-      "endDate": "2026-10-08",
-      "latestNav": 1.2813
+      "endDate": "2026-10-09",
+      "latestNav": 1.2735
     }
   },
   "青云一号": {
@@ -29576,18 +29642,29 @@
         "maxDrawdown": 0.0008728945126457166,
         "ytdReturn": 0.019373732896900142,
         "ytdAnnualReturn": 0.24384181059891555
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.0265629870290554,
+        "dailyReturn": 0.007052618583494865,
+        "annualReturn": 0.020541292935604243,
+        "totalCapital": 128110105.11,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0008728945126457166,
+        "ytdReturn": 0.02656298702905535,
+        "ytdAnnualReturn": 0.3231830088535068
       }
     ],
     "stats": {
-      "totalReturn": 1.94,
+      "totalReturn": 2.66,
       "maxDrawdown": 7.78,
-      "sharpeRatio": 2.71,
-      "volatility": 12.97,
-      "winRate": 68.57,
-      "calmarRatio": 0.25,
+      "sharpeRatio": 2.74,
+      "volatility": 12.96,
+      "winRate": 68.67,
+      "calmarRatio": 0.34,
       "startDate": "2025-06-24",
-      "endDate": "2026-10-08",
-      "latestNav": 1.0194
+      "endDate": "2026-10-09",
+      "latestNav": 1.0266
     }
   },
   "卜（1892）": {
@@ -35491,17 +35568,28 @@
         "maxDrawdown": 0.07924332996009309,
         "ytdReturn": 0.4062944073722219,
         "ytdAnnualReturn": 0.5277489633126726
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.6730684564507323,
+        "dailyReturn": 0.0,
+        "annualReturn": 0.3036711824530498,
+        "totalCapital": 1215019.84,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.07924332996009309,
+        "ytdReturn": 0.4062944073722219,
+        "ytdAnnualReturn": 0.5258775130881596
       }
     ],
     "stats": {
       "totalReturn": 67.31,
       "maxDrawdown": 7.92,
-      "sharpeRatio": 1.83,
-      "volatility": 12.62,
-      "winRate": 53.83,
+      "sharpeRatio": 1.82,
+      "volatility": 12.6,
+      "winRate": 53.73,
       "calmarRatio": 8.49,
       "startDate": "2024-07-22",
-      "endDate": "2026-10-08",
+      "endDate": "2026-10-09",
       "latestNav": 1.6731
     }
   },
@@ -35674,18 +35762,29 @@
         "maxDrawdown": 0.05150851972956272,
         "ytdReturn": 0.15984048194238687,
         "ytdAnnualReturn": 2.083634853891829
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.1384866077997353,
+        "dailyReturn": -0.018411043997093618,
+        "annualReturn": 1.7430210981690824,
+        "totalCapital": 5022734.06,
+        "drawdown": -0.01841104399709359,
+        "maxDrawdown": 0.05150851972956272,
+        "ytdReturn": 0.13848660779973532,
+        "ytdAnnualReturn": 1.7430210981690824
       }
     ],
     "stats": {
-      "totalReturn": 15.98,
+      "totalReturn": 13.85,
       "maxDrawdown": 5.15,
-      "sharpeRatio": 5.88,
-      "volatility": 43.87,
-      "winRate": 60.0,
-      "calmarRatio": 3.1,
+      "sharpeRatio": 4.84,
+      "volatility": 43.89,
+      "winRate": 56.25,
+      "calmarRatio": 2.69,
       "startDate": "2026-09-10",
-      "endDate": "2026-10-08",
-      "latestNav": 1.1598
+      "endDate": "2026-10-09",
+      "latestNav": 1.1385
     }
   },
   "建瓴十号": {
@@ -37161,18 +37260,29 @@
         "maxDrawdown": 0.08562570581215556,
         "ytdReturn": 0.37961311082357496,
         "ytdAnnualReturn": 0.6962753037718837
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.382449726777885,
+        "dailyReturn": 0.002056095242974832,
+        "annualReturn": 0.6979707513696402,
+        "totalCapital": 16811504.91,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.08562570581215556,
+        "ytdReturn": 0.382449726777885,
+        "ytdAnnualReturn": 0.6979707513696402
       }
     ],
     "stats": {
-      "totalReturn": 37.96,
+      "totalReturn": 38.24,
       "maxDrawdown": 8.56,
-      "sharpeRatio": 2.81,
-      "volatility": 21.82,
-      "winRate": 62.41,
-      "calmarRatio": 4.43,
+      "sharpeRatio": 2.82,
+      "volatility": 21.74,
+      "winRate": 62.69,
+      "calmarRatio": 4.47,
       "startDate": "2026-03-23",
-      "endDate": "2026-10-08",
-      "latestNav": 1.3796
+      "endDate": "2026-10-09",
+      "latestNav": 1.3824
     }
   },
   "卜+建瓴十+杨海通": {
@@ -38636,18 +38746,29 @@
         "maxDrawdown": 0.053171617699799056,
         "ytdReturn": 0.46382072667325214,
         "ytdAnnualReturn": 0.8550230567461466
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.4600382432735102,
+        "dailyReturn": -0.002583979944277886,
+        "annualReturn": 0.8437887376624684,
+        "totalCapital": 23049258.81,
+        "drawdown": -0.0025839799442778366,
+        "maxDrawdown": 0.053171617699799056,
+        "ytdReturn": 0.4600382432735102,
+        "ytdAnnualReturn": 0.8437887376624684
       }
     ],
     "stats": {
-      "totalReturn": 46.38,
+      "totalReturn": 46.0,
       "maxDrawdown": 5.32,
-      "sharpeRatio": 4.65,
-      "volatility": 15.51,
-      "winRate": 59.09,
-      "calmarRatio": 8.72,
+      "sharpeRatio": 4.59,
+      "volatility": 15.47,
+      "winRate": 58.65,
+      "calmarRatio": 8.65,
       "startDate": "2026-03-24",
-      "endDate": "2026-10-08",
-      "latestNav": 1.4638
+      "endDate": "2026-10-09",
+      "latestNav": 1.46
     }
   },
   "金牛八（中信）": {
@@ -40011,18 +40132,29 @@
         "maxDrawdown": 0.10807733987614443,
         "ytdReturn": 0.17762009286483238,
         "ytdAnnualReturn": 0.3523442059546946
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.1753606085673847,
+        "dailyReturn": -0.0019186869442342775,
+        "annualReturn": 0.3459817412275427,
+        "totalCapital": 13224872.86,
+        "drawdown": -0.02607730373517414,
+        "maxDrawdown": 0.10807733987614443,
+        "ytdReturn": 0.17536060856738467,
+        "ytdAnnualReturn": 0.3459817412275427
       }
     ],
     "stats": {
-      "totalReturn": 17.76,
+      "totalReturn": 17.54,
       "maxDrawdown": 10.81,
-      "sharpeRatio": 1.44,
-      "volatility": 23.85,
-      "winRate": 56.1,
-      "calmarRatio": 1.64,
+      "sharpeRatio": 1.42,
+      "volatility": 23.76,
+      "winRate": 55.65,
+      "calmarRatio": 1.62,
       "startDate": "2026-04-07",
-      "endDate": "2026-10-08",
-      "latestNav": 1.1776
+      "endDate": "2026-10-09",
+      "latestNav": 1.1754
     }
   },
   "建瓴六号(6199)": {
@@ -47185,18 +47317,29 @@
         "maxDrawdown": 0.007964715051223092,
         "ytdReturn": 0.35601956270042523,
         "ytdAnnualReturn": 0.4624453394507303
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 2.8354386221679464,
+        "dailyReturn": -0.00014284613281526716,
+        "annualReturn": 0.7059379316030563,
+        "totalCapital": 51417007.52,
+        "drawdown": -0.00014284613281523306,
+        "maxDrawdown": 0.007964715051223092,
+        "ytdReturn": 0.3558258605498716,
+        "ytdAnnualReturn": 0.4605547485840536
       }
     ],
     "stats": {
-      "totalReturn": 183.58,
+      "totalReturn": 183.54,
       "maxDrawdown": 0.8,
-      "sharpeRatio": 10.07,
+      "sharpeRatio": 10.06,
       "volatility": 3.96,
-      "winRate": 82.51,
-      "calmarRatio": 230.5,
+      "winRate": 82.38,
+      "calmarRatio": 230.45,
       "startDate": "2024-03-04",
-      "endDate": "2026-10-08",
-      "latestNav": 2.8358
+      "endDate": "2026-10-09",
+      "latestNav": 2.8354
     }
   },
   "图南智达": {
@@ -50118,18 +50261,29 @@
         "maxDrawdown": 0.032571032571032665,
         "ytdReturn": 0.6211382113821139,
         "ytdAnnualReturn": 0.806816537916269
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.988,
+        "dailyReturn": -0.003009027081243734,
+        "annualReturn": 0.8882266009852215,
+        "totalCapital": null,
+        "drawdown": -0.0030090270812437314,
+        "maxDrawdown": 0.032571032571032665,
+        "ytdReturn": 0.6162601626016261,
+        "ytdAnnualReturn": 0.7976416998212535
       }
     ],
     "stats": {
-      "totalReturn": 99.4,
+      "totalReturn": 98.8,
       "maxDrawdown": 3.26,
-      "sharpeRatio": 6.14,
+      "sharpeRatio": 6.09,
       "volatility": 10.46,
-      "winRate": 61.13,
-      "calmarRatio": 30.52,
+      "winRate": 60.9,
+      "calmarRatio": 30.33,
       "startDate": "2025-08-29",
-      "endDate": "2026-10-08",
-      "latestNav": 1.994
+      "endDate": "2026-10-09",
+      "latestNav": 1.988
     }
   },
   "龙壹盛千合": {
@@ -52202,18 +52356,29 @@
         "maxDrawdown": 0.004300478601650837,
         "ytdReturn": 0.29067310594627227,
         "ytdAnnualReturn": 0.36838779052218534
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.7127,
+        "dailyReturn": 0.001344714686622994,
+        "annualReturn": 0.3693050967301926,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.004300478601650837,
+        "ytdReturn": 0.2924086930274675,
+        "ytdAnnualReturn": 0.3693050967301926
       }
     ],
     "stats": {
-      "totalReturn": 71.04,
+      "totalReturn": 71.27,
       "maxDrawdown": 0.43,
-      "sharpeRatio": 12.21,
+      "sharpeRatio": 12.24,
       "volatility": 2.64,
-      "winRate": 86.7,
-      "calmarRatio": 165.19,
+      "winRate": 86.77,
+      "calmarRatio": 165.73,
       "startDate": "2025-12-24",
-      "endDate": "2026-10-08",
-      "latestNav": 1.7104
+      "endDate": "2026-10-09",
+      "latestNav": 1.7127
     }
   },
   "龙壹盛风华永晟": {
@@ -54297,18 +54462,29 @@
         "maxDrawdown": 0.002625845019274875,
         "ytdReturn": 0.2771805687848687,
         "ytdAnnualReturn": 0.3500723446590902
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.8811,
+        "dailyReturn": 0.002077562326869814,
+        "annualReturn": 0.35220485076552754,
+        "totalCapital": null,
+        "drawdown": -0.0005313213963127339,
+        "maxDrawdown": 0.002625845019274875,
+        "ytdReturn": 0.27983399101918627,
+        "ytdAnnualReturn": 0.35220485076552754
       }
     ],
     "stats": {
-      "totalReturn": 87.72,
+      "totalReturn": 88.11,
       "maxDrawdown": 0.26,
-      "sharpeRatio": 11.39,
+      "sharpeRatio": 11.45,
       "volatility": 2.69,
-      "winRate": 84.66,
-      "calmarRatio": 334.06,
+      "winRate": 84.74,
+      "calmarRatio": 335.55,
       "startDate": "2025-12-23",
-      "endDate": "2026-10-08",
-      "latestNav": 1.8772
+      "endDate": "2026-10-09",
+      "latestNav": 1.8811
     }
   },
   "龙壹盛善缘": {
@@ -55666,18 +55842,29 @@
         "maxDrawdown": 0.004666341027426468,
         "ytdReturn": 2.3068550842297544,
         "ytdAnnualReturn": 4.5760984007818495
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 12.9897,
+        "dailyReturn": -0.0034217410984863678,
+        "annualReturn": 4.529038146122577,
+        "totalCapital": null,
+        "drawdown": -0.003421741098486364,
+        "maxDrawdown": 0.004666341027426468,
+        "ytdReturn": 2.2955398822813065,
+        "ytdAnnualReturn": 4.529038146122577
       }
     ],
     "stats": {
-      "totalReturn": 1203.43,
+      "totalReturn": 1198.97,
       "maxDrawdown": 0.47,
-      "sharpeRatio": 18.02,
-      "volatility": 13.61,
-      "winRate": 92.68,
-      "calmarRatio": 2578.96,
+      "sharpeRatio": 17.72,
+      "volatility": 13.68,
+      "winRate": 91.94,
+      "calmarRatio": 2569.4,
       "startDate": "2026-04-07",
-      "endDate": "2026-10-08",
-      "latestNav": 13.0343
+      "endDate": "2026-10-09",
+      "latestNav": 12.9897
     }
   },
   "国标鑫顺一期": {
@@ -61139,18 +61326,29 @@
         "maxDrawdown": 0.04253579745330227,
         "ytdReturn": 6.120323609542163,
         "ytdAnnualReturn": 7.949886539085017
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 43.1398,
+        "dailyReturn": 0.006493006544334695,
+        "annualReturn": 22.327488224022012,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.04253579745330227,
+        "ytdReturn": 6.1665559173367015,
+        "ytdAnnualReturn": 7.981535141233674
       }
     ],
     "stats": {
-      "totalReturn": 4186.15,
+      "totalReturn": 4213.98,
       "maxDrawdown": 4.25,
       "sharpeRatio": 10.05,
-      "volatility": 19.53,
-      "winRate": 78.43,
-      "calmarRatio": 984.15,
+      "volatility": 19.51,
+      "winRate": 78.47,
+      "calmarRatio": 990.69,
       "startDate": "2024-09-13",
-      "endDate": "2026-10-08",
-      "latestNav": 42.8615
+      "endDate": "2026-10-09",
+      "latestNav": 43.1398
     }
   },
   "国标乾一": {
@@ -63201,18 +63399,29 @@
         "maxDrawdown": 0.006118749055748607,
         "ytdReturn": 0.34036831812255536,
         "ytdAnnualReturn": 0.4343861402613032
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.6484,
+        "dailyReturn": 0.0021277889233388405,
+        "annualReturn": 0.4364997342467371,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.006118749055748607,
+        "ytdReturn": 0.3432203389830508,
+        "ytdAnnualReturn": 0.4364997342467371
       }
     ],
     "stats": {
-      "totalReturn": 64.49,
+      "totalReturn": 64.84,
       "maxDrawdown": 0.61,
-      "sharpeRatio": 10.91,
-      "volatility": 3.46,
-      "winRate": 85.48,
-      "calmarRatio": 105.4,
+      "sharpeRatio": 10.96,
+      "volatility": 3.45,
+      "winRate": 85.56,
+      "calmarRatio": 105.97,
       "startDate": "2025-12-26",
-      "endDate": "2026-10-08",
-      "latestNav": 1.6449
+      "endDate": "2026-10-09",
+      "latestNav": 1.6484
     }
   },
   "国标北极星": {
@@ -65296,18 +65505,29 @@
         "maxDrawdown": 0.0026483050847457834,
         "ytdReturn": 0.2822574096630125,
         "ytdAnnualReturn": 0.3564842717197217
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.5888,
+        "dailyReturn": 0.006142739535178293,
+        "annualReturn": 0.3651686337099416,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0026483050847457834,
+        "ytdReturn": 0.2901339829476248,
+        "ytdAnnualReturn": 0.3651686337099416
       }
     ],
     "stats": {
-      "totalReturn": 57.91,
+      "totalReturn": 58.88,
       "maxDrawdown": 0.26,
-      "sharpeRatio": 13.26,
-      "volatility": 2.35,
-      "winRate": 85.71,
-      "calmarRatio": 218.67,
+      "sharpeRatio": 13.21,
+      "volatility": 2.41,
+      "winRate": 85.79,
+      "calmarRatio": 222.33,
       "startDate": "2025-12-23",
-      "endDate": "2026-10-08",
-      "latestNav": 1.5791
+      "endDate": "2026-10-09",
+      "latestNav": 1.5888
     }
   },
   "国标嘉润": {
@@ -67118,18 +67338,29 @@
         "maxDrawdown": 0.0033857105651532438,
         "ytdReturn": 0.22419999999999995,
         "ytdAnnualReturn": 0.3247341269841269
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.2286,
+        "dailyReturn": 0.0035941839568697596,
+        "annualReturn": 0.32979841897233186,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.0033857105651532438,
+        "ytdReturn": 0.22859999999999991,
+        "ytdAnnualReturn": 0.32979841897233186
       }
     ],
     "stats": {
-      "totalReturn": 22.42,
+      "totalReturn": 22.86,
       "maxDrawdown": 0.34,
-      "sharpeRatio": 10.03,
+      "sharpeRatio": 10.13,
       "volatility": 2.91,
-      "winRate": 67.68,
-      "calmarRatio": 66.22,
+      "winRate": 67.88,
+      "calmarRatio": 67.52,
       "startDate": "2026-01-29",
-      "endDate": "2026-10-08",
-      "latestNav": 1.2242
+      "endDate": "2026-10-09",
+      "latestNav": 1.2286
     }
   },
   "曹磊（瑞达）": {
@@ -70686,18 +70917,29 @@
         "maxDrawdown": 0.006278611820489388,
         "ytdReturn": 0.08266148008679597,
         "ytdAnnualReturn": 0.12571433429866888
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.0828664637694447,
+        "dailyReturn": 0.00018933312620702955,
+        "annualReturn": 0.12550315052218808,
+        "totalCapital": 5080632.8,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.006278611820489388,
+        "ytdReturn": 0.08286646376944473,
+        "ytdAnnualReturn": 0.12550315052218808
       }
     ],
     "stats": {
-      "totalReturn": 8.27,
+      "totalReturn": 8.29,
       "maxDrawdown": 0.63,
-      "sharpeRatio": 4.82,
+      "sharpeRatio": 4.81,
       "volatility": 2.25,
-      "winRate": 64.74,
-      "calmarRatio": 13.17,
+      "winRate": 64.97,
+      "calmarRatio": 13.2,
       "startDate": "2026-02-10",
-      "endDate": "2026-10-08",
-      "latestNav": 1.0827
+      "endDate": "2026-10-09",
+      "latestNav": 1.0829
     }
   },
   "杨莞姣（银河-国君2211）": {
@@ -72554,18 +72796,29 @@
         "ytdReturn": 0.2205090070904394,
         "ytdAnnualReturn": 0.31812564264035725,
         "withdrawal": 81077.2
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.2224592672515553,
+        "dailyReturn": 0.0015979072254166218,
+        "annualReturn": 0.31967571868825856,
+        "totalCapital": 5153689.67,
+        "drawdown": -0.0010973886016535372,
+        "maxDrawdown": 0.010626706132925268,
+        "ytdReturn": 0.2224592672515553,
+        "ytdAnnualReturn": 0.31967571868825856
       }
     ],
     "stats": {
-      "totalReturn": 22.05,
+      "totalReturn": 22.25,
       "maxDrawdown": 1.06,
-      "sharpeRatio": 3.59,
-      "volatility": 8.0,
-      "winRate": 60.0,
-      "calmarRatio": 20.75,
+      "sharpeRatio": 3.61,
+      "volatility": 7.98,
+      "winRate": 60.24,
+      "calmarRatio": 20.93,
       "startDate": "2026-01-28",
-      "endDate": "2026-10-08",
-      "latestNav": 1.2205
+      "endDate": "2026-10-09",
+      "latestNav": 1.2225
     }
   },
   "周承泽（银河）": {
@@ -74380,18 +74633,29 @@
         "maxDrawdown": 0.005782654318947422,
         "ytdReturn": 0.3046791719607467,
         "ytdAnnualReturn": 0.4484189426035183
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.305370990398343,
+        "dailyReturn": 0.0005302594327129897,
+        "annualReturn": 0.44763217468030203,
+        "totalCapital": 5365803.52,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.005782654318947422,
+        "ytdReturn": 0.30537099039834303,
+        "ytdAnnualReturn": 0.44763217468030203
       }
     ],
     "stats": {
-      "totalReturn": 30.47,
+      "totalReturn": 30.54,
       "maxDrawdown": 0.58,
-      "sharpeRatio": 2.96,
-      "volatility": 13.63,
-      "winRate": 59.26,
-      "calmarRatio": 52.69,
+      "sharpeRatio": 2.95,
+      "volatility": 13.59,
+      "winRate": 59.51,
+      "calmarRatio": 52.81,
       "startDate": "2026-02-02",
-      "endDate": "2026-10-08",
-      "latestNav": 1.3047
+      "endDate": "2026-10-09",
+      "latestNav": 1.3054
     }
   },
   "富犇前景套利一号": {
@@ -75386,18 +75650,29 @@
         "maxDrawdown": 0.029777392309916273,
         "ytdReturn": 0.1493157094397006,
         "ytdAnnualReturn": 0.4067181637723188
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.9593,
+        "dailyReturn": -0.0029515037402676847,
+        "annualReturn": 0.39453390693301804,
+        "totalCapital": null,
+        "drawdown": -0.009403913241316508,
+        "maxDrawdown": 0.029777392309916273,
+        "ytdReturn": 0.14592349982454092,
+        "ytdAnnualReturn": 0.39453390693301804
       }
     ],
     "stats": {
-      "totalReturn": 96.51,
+      "totalReturn": 95.93,
       "maxDrawdown": 2.98,
-      "sharpeRatio": 4.85,
+      "sharpeRatio": 4.69,
       "volatility": 7.69,
-      "winRate": 63.33,
-      "calmarRatio": 32.41,
+      "winRate": 62.64,
+      "calmarRatio": 32.22,
       "startDate": "2026-05-27",
-      "endDate": "2026-10-08",
-      "latestNav": 1.9651
+      "endDate": "2026-10-09",
+      "latestNav": 1.9593
     }
   },
   "点宝3号": {
@@ -77252,18 +77527,29 @@
         "maxDrawdown": 0.012160518848804314,
         "ytdReturn": 0.6148234607528449,
         "ytdAnnualReturn": 0.8698083843984046
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.674,
+        "dailyReturn": 0.008312251535959544,
+        "annualReturn": 0.8853663785090689,
+        "totalCapital": null,
+        "drawdown": 0.0,
+        "maxDrawdown": 0.012160518848804314,
+        "ytdReturn": 0.6282462795447913,
+        "ytdAnnualReturn": 0.8853663785090689
       }
     ],
     "stats": {
-      "totalReturn": 66.02,
+      "totalReturn": 67.4,
       "maxDrawdown": 1.22,
-      "sharpeRatio": 7.23,
-      "volatility": 9.74,
-      "winRate": 66.07,
-      "calmarRatio": 54.29,
+      "sharpeRatio": 7.32,
+      "volatility": 9.73,
+      "winRate": 66.27,
+      "calmarRatio": 55.43,
       "startDate": "2026-01-23",
-      "endDate": "2026-10-08",
-      "latestNav": 1.6602
+      "endDate": "2026-10-09",
+      "latestNav": 1.674
     }
   },
   "麦芽（安贤周度）": {
@@ -77719,18 +78005,29 @@
         "maxDrawdown": 0.16408876933423,
         "ytdReturn": 0.24867587045237474,
         "ytdAnnualReturn": 0.31847962356181325
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.4049,
+        "dailyReturn": -0.02308601627146923,
+        "annualReturn": 0.2729416851398023,
+        "totalCapital": null,
+        "drawdown": -0.1411016690102096,
+        "maxDrawdown": 0.16408876933423,
+        "ytdReturn": 0.2198489189893202,
+        "ytdAnnualReturn": 0.2729416851398023
       }
     ],
     "stats": {
-      "totalReturn": 43.81,
+      "totalReturn": 40.49,
       "maxDrawdown": 16.41,
-      "sharpeRatio": 2.4,
-      "volatility": 64.73,
-      "winRate": 51.22,
-      "calmarRatio": 2.67,
+      "sharpeRatio": 2.14,
+      "volatility": 64.35,
+      "winRate": 50.0,
+      "calmarRatio": 2.47,
       "startDate": "2025-12-19",
-      "endDate": "2026-09-30",
-      "latestNav": 1.4381
+      "endDate": "2026-10-09",
+      "latestNav": 1.4049
     }
   },
   "昊泽价值(周度)": {
@@ -78318,18 +78615,29 @@
         "maxDrawdown": 0.04055981458370461,
         "ytdReturn": 0.4523192576025228,
         "ytdAnnualReturn": 0.6047491905674754
+      },
+      {
+        "date": "2026-10-09",
+        "nav": 1.6956606049822063,
+        "dailyReturn": 0.0040880795317289505,
+        "annualReturn": 0.5569359224979049,
+        "totalCapital": null,
+        "drawdown": -0.036637546799786036,
+        "maxDrawdown": 0.04055981458370461,
+        "ytdReturn": 0.45825645423306344,
+        "ytdAnnualReturn": 0.5931333538832204
       }
     ],
     "stats": {
-      "totalReturn": 68.88,
+      "totalReturn": 69.57,
       "maxDrawdown": 4.06,
-      "sharpeRatio": 7.31,
-      "volatility": 29.83,
-      "winRate": 66.04,
-      "calmarRatio": 16.98,
+      "sharpeRatio": 7.3,
+      "volatility": 29.56,
+      "winRate": 66.67,
+      "calmarRatio": 17.15,
       "startDate": "2025-09-26",
-      "endDate": "2026-09-30",
-      "latestNav": 1.6888
+      "endDate": "2026-10-09",
+      "latestNav": 1.6957
     }
   },
   "建瓴二号（7060）": {
